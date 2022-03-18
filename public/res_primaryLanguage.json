@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Codle",
+        "startDate": "2022",
+        "description": "Using vanilla JS, CSS, and HTML without the use of any library or APIs My team worked for 4 days to build a working Wordle recreation, Only this time with programming terms! We Learned a lot, and got to dip our toes into design and team management.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This was my first ever webpage, Utilizing JS, CSS, and HTML. It features a reactive table on the sales page, which works through DOM Manipulation",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery Of Horns",
+        "startDate": "2022",
+        "description": "With Gallery Of Horns, I used React-Bootstrap to create my first interactive webpage, using Cards, Modals, Header, Footer, and more. This page displays cards for a number of horned animals and allows the user to click to favorite an animal, or view a modal with more information.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
