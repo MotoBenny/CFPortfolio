@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Benjamin J Carter",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Try. . . Ben" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MotoBenny",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.linkedin.com/in/benjamin-carter-dev/",
           "class": "fab fa-instagram"
         }
       ],
