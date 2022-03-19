@@ -42,6 +42,18 @@ Actual time needed to complete: 15 minutes
 
 Number and name of feature: Skills and Experience
 
+Estimate of time needed to complete: 20
+
+Start time: 4:41
+
+Finish time: 5:00
+
+Actual time needed to complete: 19 minutes
+
+# Feature #5
+
+Number and name of feature: ________________________________
+
 Estimate of time needed to complete: _____
 
 Start time: _____
