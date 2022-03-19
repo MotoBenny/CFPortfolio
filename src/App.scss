@@ -17,6 +17,9 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 22pt;
+	font-weight: 700;
+	color:#D96725;
 }
 
 .title-styles {
@@ -38,7 +41,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url(../public/images/mainbg.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -86,16 +89,16 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #DFE7f2;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 500%;
 	text-align: center;
-	font-weight: 600 !important;
-	color: #353239;
+	font-weight: 800 !important;
+	color: #D96725;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -139,7 +142,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #D96725;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -231,7 +234,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #DFE7f2;
 }
 
 .experience-icon {
@@ -353,7 +356,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #9498A6;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +392,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background-image: url(../public/images/Banner1400x422.jpg);
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +417,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #590202;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;

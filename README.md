@@ -52,12 +52,12 @@ Actual time needed to complete: 19 minutes
 
 # Feature #5
 
-Number and name of feature: ________________________________
+Number and name of feature: Style
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 45
 
-Start time: _____
+Start time: 5:10
 
-Finish time: _____
+Finish time: 5:59
 
-Actual time needed to complete: _____
+Actual time needed to complete: 49 minutes
