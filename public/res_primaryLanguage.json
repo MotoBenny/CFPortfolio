@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Benjamin J Carter. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I am an avid cyclist, camper, skier, motorcyclist, and hobby collector. I come from a varied career in IT support, from running keynotes for first ladies to designing entire domain architectures, and even cyber security. Through my time in IT support I discovered my most engaging projects where I had the freedom to build my solutions to complicated problems with scripting and automation. My best friends know that when I am interested in a subject I won't let it go for anything, and I apply this tenacity for learning and understanding to all my programming and projects. Ideally, my passion for programming brings me into a fulfilling position within a diverse organization with a mission of making a positive impact on the planet and the people within it.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Codle",
+        "startDate": "2022",
+        "description": "Using vanilla JS, CSS, and HTML without the use of any library or APIs My team worked for 4 days to build a working Wordle recreation, Only this time with programming terms! We Learned a lot, and got to dip our toes into design and team management.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,19 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This was my first ever webpage, Utilizing JS, CSS, and HTML. It features a reactive table on the sales page, which works through DOM Manipulation",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,8 +41,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "html5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,9 +51,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery Of Horns",
+        "startDate": "2022",
+        "description": "With Gallery Of Horns, I used React-Bootstrap to create my first interactive webpage, using Cards, Modals, Header, Footer, and more. This page displays cards for a number of horned animals and allows the user to click to favorite an animal, or view a modal with more information.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,53 +61,48 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Expeditors International",
+        "title": "Technical Support Specialist",
+        "years": "10.2019 - 12.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Powershell 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SCCM",
+          "Powershell",
+          "KanBan",
+          "Agile",
+          "WDS",
+          "WS"
         ]
       },
       {
         "company": "Serros Solutions",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "7.2018 - 11.2019",
         "mainTech": [
-          "Angular 7/8"
+          "PIA"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Powershell",
+          "SCCM",
+          "Excel"
         ]
       }
     ]
