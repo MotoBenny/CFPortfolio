@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "linkedin",
           "url": "https://www.linkedin.com/in/benjamin-carter-dev/",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
